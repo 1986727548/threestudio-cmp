@@ -19,12 +19,6 @@ threestudio is a unified framework for 3D content creation from text prompts, si
 <br/>
 <img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/19284678/437b4044-142c-4e5d-a406-4d9bad0205e1" width="60%">
 <img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/812741c0-7229-412e-b6ab-81e377890f04" width="30%">
-
-<br/>
-<img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/19284678/4f4d62c5-2304-4e20-b632-afe6d144a203" width="68%">
-<br/>
-<img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/19284678/2f36ddbd-e3cf-4431-b269-47a9cb3d6e6e" width="68%">
-<br/>
 </p>
 
 <p align="center"><b>
@@ -53,42 +47,27 @@ threestudio is a unified framework for 3D content creation from text prompts, si
 <img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/ac6089a7-d88f-414c-96d6-a5e75616115a" width="68%">
 </p>
 <p align="center">
-<img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/302a399e-d36f-453e-a595-1c7d120451d3" width="35%">
-<img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/025e6980-baf2-4b5f-9c23-4f66ef847bf5" width="35%">
 <img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/cfcd828f-daed-4d2e-abf1-29f69eb2ffbb" width="18%">
-<img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/f04b6bdd-ef02-4ce7-b7c9-981f8bda419f" width="35%">
-<img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/13ae104e-e020-4de9-a677-87f29067a1c0" width="35%">
-<img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/c6337097-b5bd-4fe8-a03a-a68fb9260009" width="18%">
-<img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/e41532fd-8f00-45b4-a473-26a9f1bca4f8" width="35%">
 <img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/7b1b919d-d97a-4f50-afa3-6c1b7ecfe7b6" width="35%">
 <img alt="threestudio" src="https://github.com/threestudio-project/threestudio/assets/24589363/8892898f-8bd8-43dc-a4ec-dd8d078af860" width="45%">
 </p>
 <p align="center"><b>
-| <a href="https://github.com/HeliosZhao/Animate124/tree/threestudio">Animate-124</a> | <a href="https://github.com/DSaurus/threestudio-4dfy">4D-fy</a> | <a href="https://github.com/baaivision/GeoDream/tree/threestudio">GeoDream</a> | <a href="https://github.com/DSaurus/threestudio-dreamcraft3D">DreamCraft3D</a> | <a href="https://github.com/huanngzh/threestudio-dreamwaltz">Dreamwaltz</a> | <a href="https://github.com/KU-CVLAB/3DFuse-threestudio">3DFuse</a> | <a href="https://github.com/cxh0519/Progressive3D">Progressive3D</a> |  <a href="https://github.com/cxh0519/threestudio-gaussiandreamer">GaussianDreamer</a> |  <a href="https://github.com/DSaurus/threestudio-3dgs">Gaussian Splatting</a> | <a href="https://github.com/DSaurus/threestudio-mvdream">MVDream</a> | <a href="https://github.com/DSaurus/threestudio-meshfitting">Mesh-Fitting</a> |
+| <a href="https://github.com/baaivision/GeoDream/tree/threestudio">
+GeoDream</a>
+| <a href="https://github.com/cxh0519/threestudio-gaussiandreamer">GaussianDreamer</a> |  <a href="https://github.com/DSaurus/threestudio-3dgs">Gaussian Splatting</a> | <a href="https://github.com/DSaurus/threestudio-mvdream">MVDream</a> | <a href="https://github.com/DSaurus/threestudio-meshfitting">Mesh-Fitting</a> |
 </b>
 
 ## News
-- 12/03/2024: Thank [Matthew Kwak](https://github.com/mskwak01) and [Inès Hyeonsu Kim](https://github.com/Ines-Hyeonsu-Kim) for implementation of [3DFuse](https://github.com/KU-CVLAB/3DFuse-threestudio)! Follow the instructions on its website to give it a try.
-- 08/03/2024: Thank [Xinhua Cheng](https://github.com/cxh0519/) for implementation of [GaussianDreamer](https://github.com/cxh0519/threestudio-gaussiandreamer)! Follow the instructions on its website to give it a try.
-- 01/03/2024: Thank [Xinhua Cheng](https://github.com/cxh0519/) for implementation of [Progressive3D](https://github.com/cxh0519/Progressive3D)! Follow the instructions on its website to give it a try.
-- 09/01/2024: Thank [Zehuan Huang](https://github.com/huanngzh) for implementation of 3D human avatar generation [Dreamwaltz](https://github.com/huanngzh/threestudio-dreamwaltz)! Follow the instructions on its website to give it a try.
 - 06/01/2024: Thank [Baorui Ma](https://github.com/mabaorui) for implementation of [GeoGream extensions](https://github.com/baaivision/GeoDream/tree/threestudio)! Follow the instructions on its website to give it a try.
 - 05/01/2024: Implemented HiFA. Follow the instructions [here](https://github.com/threestudio-project/threestudio#hifa-) to try all three variants.
-- 23/12/2023: Thank [Yuyang Zhao](https://github.com/HeliosZhao) for implementation of image-to-4D generation extensions [Animate-124](https://github.com/HeliosZhao/Animate124/tree/threestudio)! Follow the instructions on the extensions website to give it a try.
-- 18/12/2023: Implementation of [4D-fy](https://github.com/DSaurus/threestudio-4dfy) for 4D generation and [DreamCraft3D](https://github.com/DSaurus/threestudio-dreamcraft3D) for high-quality image-to-3D generation as the custom extensions! Follow the instructions on the extensions website to give it a try.
 - 13/12/2023: Implementation supporting [Stable Zero123](https://stability.ai/news/stable-zero123-3d-generation) for 3D generation from a single image! Follow the instructions [here](https://github.com/threestudio-project/threestudio#stable-zero123) to give it a try.
 - 30/11/2023: Implementation of [MVDream](https://github.com/DSaurus/threestudio-mvdream), [Gaussian Splatting](https://github.com/DSaurus/threestudio-3dgs) as the custom extensions. You can also use neural representation to fit a mesh by [Mesh-Fitting](https://github.com/DSaurus/threestudio-meshfitting).
 - 30/11/2023: Implementation of [custom extension system](https://threestudio-project.github.io/threestudio-extensions/) and you can add your extensions in [this project](https://github.com/threestudio-project/threestudio-extensions).
 - 25/06/2023: Implementation of [Magic123](https://guochengqian.github.io/project/magic123/)! Follow the instructions [here](https://github.com/threestudio-project/threestudio#magic123-) to give it a try.
 - 06/07/2023: Join our [Discord server](https://discord.gg/ejer2MAB8N) for lively discussions!
 - 03/07/2023: Try text-to-3D online in [HuggingFace Spaces](https://huggingface.co/spaces/bennyguo/threestudio) or using our [self-hosted service](http://t23-g-01.threestudio.ai) (GPU support from Tencent). To host the web interface locally, see [here](https://github.com/threestudio-project/threestudio#gradio-web-interface).
-- 20/06/2023: Implementations of Instruct-NeRF2NeRF and Control4D for high-fidelity 3D editing! Follow the instructions for [Control4D](https://github.com/threestudio-project/threestudio#control4d-) and [Instruct-NeRF2NeRF](https://github.com/threestudio-project/threestudio#instructnerf2nerf-) to give it a try.
-- 14/06/2023: Implementation of TextMesh! Follow the instructions [here](https://github.com/threestudio-project/threestudio#textmesh-) to give it a try.
-- 14/06/2023: Implementation of [prompt debiasing](https://arxiv.org/abs/2303.15413) and [Perp-Neg](https://perp-neg.github.io/)! Follow the instructions [here](https://github.com/threestudio-project/threestudio#tips-on-improving-quality) to give it a try.
 - 29/05/2023: An experimental implementation of using [Zero-1-to-3](https://zero123.cs.columbia.edu/) for 3D generation from a single image! Follow the instructions [here](https://github.com/threestudio-project/threestudio#zero-1-to-3-) to give it a try.
-- 26/05/2023: Implementation of [ProlificDreamer](https://ml.cs.tsinghua.edu.cn/prolificdreamer/)! Follow the instructions [here](https://github.com/threestudio-project/threestudio#prolificdreamer-) to give it a try.
 - 14/05/2023: You can experiment with the SDS loss on 2D images using our [2dplayground](2dplayground.ipynb).
-- 13/05/2023: You can now try threestudio on [Google Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb)!
 - 11/05/2023: We now support exporting textured meshes! See [here](https://github.com/threestudio-project/threestudio#export-meshes) for instructions.
 
 ![export-blender](https://github.com/threestudio-project/threestudio/assets/19284678/ccae2820-e702-484c-a43f-81678a365427)
@@ -240,90 +219,6 @@ For feature requests, bug reports, or discussions about technical problems, plea
 
 ## Supported Models
 
-### ProlificDreamer [![arXiv](https://img.shields.io/badge/arXiv-2305.16213-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2305.16213)
-
-**This is an unofficial experimental implementation! Please refer to [https://github.com/thu-ml/prolificdreamer](https://github.com/thu-ml/prolificdreamer) for official code release.**
-
-**Results obtained by threestudio (Stable Diffusion, 256x256 Stage1)**
-
-https://github.com/threestudio-project/threestudio/assets/19284678/27b42d8f-4aa4-4b47-8ea0-0f77db90fd1e
-
-https://github.com/threestudio-project/threestudio/assets/19284678/ffcbbb01-3817-4663-a2bf-5e21a076bc3d
-
-**Results obtained by threestudio (Stable Diffusion, 256x256 Stage1, 512x512 Stage2+3)**
-
-https://github.com/threestudio-project/threestudio/assets/19284678/cfab881e-18dc-45fc-8384-7476f835b36e
-
-Notable differences from the paper:
-
-- ProlificDreamer adopts a two-stage sampling strategy with 64 coarse samples and 32 fine samples, while we only use 512 coarse samples.
-- In the first stage, we only render 64x64 images at the first 5000 iterations. After that, as the empty space has been effectively pruned, rendering 512x512 images wouldn't cost too much VRAM.
-- We currently don't support multiple particles.
-
-```sh
-# --------- Stage 1 (NeRF) --------- #
-# object generation with 512x512 NeRF rendering, ~30GB VRAM
-python launch.py --config configs/prolificdreamer.yaml --train --gpu 0 system.prompt_processor.prompt="a pineapple"
-# if you don't have enough VRAM, try training with 64x64 NeRF rendering, ~15GB VRAM
-python launch.py --config configs/prolificdreamer.yaml --train --gpu 0 system.prompt_processor.prompt="a pineapple" data.width=64 data.height=64 data.batch_size=1
-# using the same model for pretrained and LoRA enables 64x64 training with <10GB VRAM
-# but the quality is worse due to the use of an epsilon prediction model for LoRA training
-python launch.py --config configs/prolificdreamer.yaml --train --gpu 0 system.prompt_processor.prompt="a pineapple" data.width=64 data.height=64 data.batch_size=1 system.guidance.pretrained_model_name_or_path_lora="stabilityai/stable-diffusion-2-1-base"
-# Using patch-based renderer to reduce memory consume, 512x512 resolution, ~20GB VRAM
-python launch.py --config configs/prolificdreamer-patch.yaml --train --gpu 0 system.prompt_processor.prompt="a pineapple"
-# scene generation with 512x512 NeRF rendering, ~30GB VRAM
-python launch.py --config configs/prolificdreamer-scene.yaml --train --gpu 0 system.prompt_processor.prompt="Inside of a smart home, realistic detailed photo, 4k"
-
-# --------- Stage 2 (Geometry Refinement) --------- #
-# refine geometry with 512x512 rasterization, Stable Diffusion SDS guidance
-python launch.py --config configs/prolificdreamer-geometry.yaml --train --gpu 0 system.prompt_processor.prompt="a pineapple" system.geometry_convert_from=path/to/stage1/trial/dir/ckpts/last.ckpt
-
-# --------- Stage 3 (Texturing) --------- #
-# texturing with 512x512 rasterization, Stable Difusion VSD guidance
-python launch.py --config configs/prolificdreamer-texture.yaml --train --gpu 0 system.prompt_processor.prompt="a pineapple" system.geometry_convert_from=path/to/stage2/trial/dir/ckpts/last.ckpt
-```
-### HiFA [![arXiv](https://img.shields.io/badge/arXiv-2209.14988-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2305.18766)
-**This is a re-implementation, missing some improvements from the original paper(coarse-to-fine NeRF sampling, kernel smoothing). For original results, please refer to [https://github.com/JunzheJosephZhu/HiFA](https://github.com/JunzheJosephZhu/HiFA)**
-
-HiFA is more like a suite of improvements including image space SDS, z-variance loss, and noise strength annealing. It is compatible with most optimization-based methods. Therefore, we provide three variants based on DreamFusion, ProlificDreamer, and Magic123. We provide a unified guidance config as well as an SDS/VSD guidance config for the DreamFusion and ProlificDreamer variants, both configs should achieve the same results. Additionally, we also make HiFA compatible with ProlificDreamer-scene.
-
-**Results obtained by threestudio(Dreamfusion-HiFA, 512x512)**
-
-https://github.com/threestudio-project/threestudio/assets/24391451/c0030c66-0691-4ec2-8b79-d933101864a0
-
-**Results obtained by threestudio(ProlificDreamer-HiFA, 512x512)**
-
-https://github.com/threestudio-project/threestudio/assets/24391451/ff5dc4d0-d7d7-4a73-964e-84b8c48e2907
-
-**Results obtained by threestudio(Magic123-HiFA, 512x512)**
-
-https://github.com/threestudio-project/threestudio/assets/24391451/eb6f2f74-9143-4e26-8429-e300ad2d2b80
-
-**Example running commands**
-
-```sh
-# ------ DreamFusion-HiFA ------- # (similar to original paper)
-python launch.py --config configs/hifa.yaml --train --gpu 0 system.prompt_processor.prompt="a plate of delicious tacos"
-python launch.py --config configs/experimental/unified-guidance/hifa.yaml --train --gpu 0 system.prompt_processor.prompt="a plate of delicious tacos"
-# ------ ProlificDreamer-HiFA ------- #
-python launch.py --config configs/prolificdreamer-hifa.yaml --train --gpu 0 system.prompt_processor.prompt="a plate of delicious tacos"
-python launch.py --config configs/experimental/unified-guidance/prolificdreamer-hifa.yaml --train --gpu 0 system.prompt_processor.prompt="a plate of delicious tacos"
-# ------ ProlificDreamer-scene-HiFA ------- #
-python launch.py --config configs/prolificdreamer-scene-hifa.yaml --train --gpu 0 system.prompt_processor.prompt="A DSLR photo of a hamburger inside a restaurant"
-# ------ Magic123-HiFA ------ #
-python launch.py --config configs/magic123-hifa-coarse-sd.yaml --train --gpu 0 data.image_path=load/images/firekeeper_rgba.png system.prompt_processor.prompt="a toy figure of firekeeper from dark souls"
-# We included a config for magic123's refine stage, but didn't really run it, since the coarse stage result already looks pretty decent.
-```
-
-**Tips**
-
-- If the generated object's color seems oversaturated, decrease lambda_sds_img(or lambda_sd_img if using unified guidance).
-- If the generated object looks cloudy, increase lamda_z_variance. If the shape becomes corrupted, decrease lambda_z_variance.
-- If the generated object overall seems to have high luminance, increase min_step_percent.
-- Make sure sqrt_anneal and use_img_loss are both set to True.
-- Check out the [original repo](https://github.com/JunzheJosephZhu/HiFA)! The results are better.
-- **If you are using sqrt_anneal, make sure system.guidance.trainer_max_steps is equal to trainer.max_steps, so noise strength annealing works correctly**
-
 ### DreamFusion [![arXiv](https://img.shields.io/badge/arXiv-2209.14988-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2209.14988)
 
 **Results obtained by threestudio (DeepFloyd IF, batch size 8)**
@@ -402,51 +297,6 @@ python launch.py --config configs/magic3d-refine-sd.yaml --train --gpu 0 system.
 - Try increasing/decreasing `system.loss.lambda_orient` if you object is foggy/over-smoothed.
 - Try replacing the background with random colors with a probability 0.5 by setting `system.background.random_aug=true` if you find the model incorrectly treats the background as part of the object.
 
-### Score Jacobian Chaining [![arXiv](https://img.shields.io/badge/arXiv-2212.00774-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2212.00774)
-
-**Results obtained by threestudio (Stable Diffusion)**
-
-https://user-images.githubusercontent.com/19284678/236694871-87a247c1-2d3d-4cbf-89df-450bfeac3aca.mp4
-
-Notable differences from the paper: N/A.
-
-**Example running commands**
-
-```sh
-# train with sjc guidance in latent space
-python launch.py --config configs/sjc.yaml --train --gpu 0 system.prompt_processor.prompt="A high quality photo of a delicious burger"
-# train with sjc guidance in latent space, trump figure
-python launch.py --config configs/sjc.yaml --train --gpu 0 system.prompt_processor.prompt="Trump figure" trainer.max_steps=30000 system.loss.lambda_emptiness="[15000,10000.0,200000.0,15001]" system.optimizer.params.background.lr=0.05 seed=42
-```
-
-**Tips**
-
-- SJC uses subpixel rendering which decodes a `128x128` latent feature map for better visualization quality. You can turn off this feature by `system.subpixel_rendering=false` to save VRAM in validation/testing.
-
-### Latent-NeRF [![arXiv](https://img.shields.io/badge/arXiv-2211.07600-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2211.07600)
-
-**Results obtained by threestudio (Stable Diffusion)**
-
-https://user-images.githubusercontent.com/19284678/236694876-5a270347-6a41-4429-8909-44c90c554e06.mp4
-
-Notable differences from the paper: N/A.
-
-We currently only implement Latent-NeRF for text-guided and Sketch-Shape for (text,shape)-guided 3D generation. Latent-Paint is not implemented yet.
-
-**Example running commands**
-
-```sh
-# train Latent-NeRF in Stable Diffusion latent space
-python launch.py --config configs/latentnerf.yaml --train --gpu 0 system.prompt_processor.prompt="a delicious hamburger"
-# refine Latent-NeRF in RGB space
-python launch.py --config configs/latentnerf-refine.yaml --train --gpu 0 system.prompt_processor.prompt="a delicious hamburger" system.weights=path/to/latent/stage/trial/dir/ckpts/last.ckpt
-
-# train Sketch-Shape in Stable Diffusion latent space
-python launch.py --config configs/sketchshape.yaml --train --gpu 0 system.guide_shape=load/shapes/teddy.obj system.prompt_processor.prompt="a teddy bear in a tuxedo"
-# refine Sketch-Shape in RGB space
-python launch.py --config configs/sketchshape-refine.yaml --train --gpu 0 system.guide_shape=load/shapes/teddy.obj system.prompt_processor.prompt="a teddy bear in a tuxedo" system.weights=path/to/latent/stage/trial/dir/ckpts/last.ckpt
-```
-
 ### Fantasia3D [![arXiv](https://img.shields.io/badge/arXiv-2303.13873-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2303.13873)
 
 **Results obtained by threestudio (Stable Diffusion)**
@@ -487,65 +337,6 @@ python launch.py --config configs/fantasia3d-texture.yaml --train --gpu 0 system
 
 - If you find the shape easily diverge in early training stages, you may use a lower guidance scale by setting `system.guidance.guidance_scale=30.`.
 
-### TextMesh [![arXiv](https://img.shields.io/badge/arXiv-2304.12439-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2304.12439)
-
-**Results obtained by threestudio (DeepFloyd IF, batch size 4)**
-
-https://github.com/threestudio-project/threestudio/assets/19284678/72217cdd-765a-475b-92d0-4ab62bf0f57a
-
-**Notable differences from the paper**
-
-- Most of the settings are the same as the DreamFusion model. Please refer to the notable differences of the DreamFusion model.
-- We use NeuS as the geometry representation while the original paper uses VolSDF.
-- We adopt techniques from [Neuralangelo](https://arxiv.org/abs/2306.03092) to stabilize normal computation when using hash grids.
-- We currently only implemented the coarse stage of TextMesh.
-
-**Example running commands**
-
-```sh
-# uses DeepFloyd IF, requires ~15GB VRAM
-python launch.py --config configs/textmesh-if.yaml --train --gpu 0 system.prompt_processor.prompt="lib:cowboy_boots"
-```
-
-**Tips**
-
-- TextMesh uses a surface-based geometry representation, so you don't need to manually tune the isosurface threshold when exporting meshes!
-
-### Control4D [![arXiv](https://img.shields.io/badge/arXiv-2305.20082-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2305.20082)
-
-**This is an experimental implementation of Control4D using threestudio! Control4D will release the full code including static and dynamic editing after paper acceptance.**
-
-**Results obtained by threestudio (512x512)**
-
-https://github.com/threestudio-project/threestudio/assets/24589363/97d9aadd-32c7-488f-9543-6951b285d588
-
-We currently don't support dynamic editing.
-
-Download the data sample of control4D using this [link](https://mailstsinghuaeducn-my.sharepoint.com/:u:/g/personal/shaorz20_mails_tsinghua_edu_cn/EcqOaEuNwH1KpR0JTzL4Ur0BO_iJr8RiY2rNAGVC7h3fng?e=Dyr2gu).
-
-**Example running commands**
-
-```sh
-# --------- Control4D --------- #
-# static editing with 128x128 NeRF + 512x512 GAN rendering, ~20GB VRAM
-python launch.py --config configs/control4d-static.yaml --train --gpu 0 data.dataroot="YOUR_DATAROOT/twindom" system.prompt_processor.prompt="Elon Musk wearing red shirt, RAW photo, (high detailed skin:1.2), 8k uhd, dslr, soft lighting, high quality, film grain, Fujifilm XT3"
-```
-
-### InstructNeRF2NeRF [![arXiv](https://img.shields.io/badge/arXiv-2303.12789-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2303.12789)
-
-**Results obtained by threestudio**
-
-https://github.com/threestudio-project/threestudio/assets/24589363/7aa43a2d-87d7-4ef5-94b6-f778ddb041b5
-
-Download the data sample of InstructNeRF2NeRF using this [link](https://mailstsinghuaeducn-my.sharepoint.com/:u:/g/personal/shaorz20_mails_tsinghua_edu_cn/EbNazeNAYsBIvxGeXuCmOXgBiLv8KM-hfRNbNS7DtTvSvA?e=C1k4bM).
-
-**Example running commands**
-
-```sh
-# --------- InstructNeRF2NeRF --------- #
-# 3D editing with NeRF patch-based rendering, ~20GB VRAM
-python launch.py --config configs/instructnerf2nerf.yaml --train --gpu 0 data.dataroot="YOUR_DATAROOT/face" data.camera_layout="front" data.camera_distance=1 data.eval_interpolation=[1,3,50] system.prompt_processor.prompt="Turn him into Albert Einstein"
-```
 
 ### Magic123 [![arXiv](https://img.shields.io/badge/arXiv-2306.17843-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2306.17843)
 
