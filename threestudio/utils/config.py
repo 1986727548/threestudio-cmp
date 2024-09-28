@@ -86,16 +86,18 @@ class ExperimentConfig:
             raise ValueError("Either tag is specified or use_timestamp is True.")
         self.trial_name = self.tag
         # if resume from an existing config, self.timestamp should not be None
-        if self.timestamp is None:
-            self.timestamp = ""
-            if self.use_timestamp:
-                if self.n_gpus > 1:
-                    threestudio.warn(
-                        "Timestamp is disabled when using multiple GPUs, please make sure you have a unique tag."
-                    )
-                else:
-                    self.timestamp = datetime.now().strftime("@%Y%m%d-%H%M%S")
-        self.trial_name += self.timestamp
+        # if self.timestamp is None:
+        #     self.timestamp = ""
+        #     if self.use_timestamp:
+        #         if self.n_gpus > 1:
+        #             threestudio.warn(
+        #                 "Timestamp is disabled when using multiple GPUs, please make sure you have a unique tag."
+        #             )
+        #         else:
+        #             self.timestamp = datetime.now().strftime("@%Y%m%d-%H%M%S")
+        # self.trial_name += self.timestamp
+        if "image_path" in self.data:
+            self.trial_name = os.path.basename(self.data.image_path).replace("_rgba.png", "")
         self.exp_dir = os.path.join(self.exp_root_dir, self.name)
         self.trial_dir = os.path.join(self.exp_dir, self.trial_name)
         os.makedirs(self.trial_dir, exist_ok=True)
