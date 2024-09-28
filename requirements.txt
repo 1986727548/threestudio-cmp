@@ -25,7 +25,8 @@ git+https://github.com/ashawkey/envlight.git
 torchmetrics
 
 # deepfloyd
-xformers
+ninja
+xformers==0.0.19
 bitsandbytes==0.38.1
 sentencepiece
 safetensors
