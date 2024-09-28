@@ -7,6 +7,7 @@ import sys
 import time
 import traceback
 
+os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
 
 class ColoredFilter(logging.Filter):
     """
